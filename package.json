@@ -11,7 +11,8 @@
   "dependencies": {
     "next": "9.5.3",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "tiny-canvas": "^0.0.17"
   },
   "devDependencies": {
     "@types/node": "^14.11.5",
